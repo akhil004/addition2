@@ -6,7 +6,7 @@ module.exports.addThreeDigit = (a,b,c) => {
 }
 
 
-/*** Adsd numbersin an array ***/
+/*** Add numbers from an array ***/
 
 module.exports.addArray = (c) => {
     sum = 0;
